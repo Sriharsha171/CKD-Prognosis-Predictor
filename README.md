@@ -53,3 +53,17 @@ Sriharsha B K (1EW21AI038)
 ### Predicted Output (kidney disease detected)
 
 <img width="741" height="125" alt="image" src="https://github.com/user-attachments/assets/ddda780d-d8be-4a69-b366-36399c6a3aec" />
+
+## Conclusion
+
+This project demonstrates that ML models, especially Logistic Regression and Random Forest, can effectively predict CKD prognosis. Important features like eGFR, potassium, albumin-to-creatinine ratio, and hematuria play significant roles in determining outcomes.
+
+## References
+
+Kaggle - CKD Dataset
+
+Scikit-learn Documentation
+
+Research Paper - KDpredict
+
+Google Colab
