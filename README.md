@@ -38,4 +38,18 @@ Sriharsha B K (1EW21AI038)
 | SVM                 | 98.2%    | 98%       | 97%    | 97.5%    | 0.982   |
 
 
-<img width="690" height="414" alt="image" src="https://github.com/user-attachments/assets/1dbfd7be-8c15-4bdf-8146-68a39dbf5c3e" />
+### Giving Inputs to the Model
+
+<img width="690" height="414" alt="image" src="https://github.com/user-attachments/assets/4e3e4207-8027-43ab-a731-bcd62f662a68" />
+
+### Predicted Output (kidney disease detected)
+
+<img width="716" height="82" alt="image" src="https://github.com/user-attachments/assets/d9f9ad57-3d48-46fb-bbdd-c8d328d9d402" />
+
+### Giving Inputs to the Model
+
+<img width="731" height="336" alt="image" src="https://github.com/user-attachments/assets/8457ec3c-9739-475f-a60c-c3ed8725c09d" />
+
+### Predicted Output (kidney disease detected)
+
+<img width="741" height="125" alt="image" src="https://github.com/user-attachments/assets/ddda780d-d8be-4a69-b366-36399c6a3aec" />
