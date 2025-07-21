@@ -57,13 +57,3 @@ Sriharsha B K (1EW21AI038)
 ## Conclusion
 
 This project demonstrates that ML models, especially Logistic Regression and Random Forest, can effectively predict CKD prognosis. Important features like eGFR, potassium, albumin-to-creatinine ratio, and hematuria play significant roles in determining outcomes.
-
-## References
-
-Kaggle - CKD Dataset
-
-Scikit-learn Documentation
-
-Research Paper - KDpredict
-
-Google Colab
