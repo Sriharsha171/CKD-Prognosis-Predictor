@@ -38,3 +38,4 @@ Sriharsha B K (1EW21AI038)
 | SVM                 | 98.2%    | 98%       | 97%    | 97.5%    | 0.982   |
 
 
+<img width="690" height="414" alt="image" src="https://github.com/user-attachments/assets/1dbfd7be-8c15-4bdf-8146-68a39dbf5c3e" />
