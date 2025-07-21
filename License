@@ -1,0 +1,12 @@
+
+---
+
+### 🧾 `requirements.txt` (sample)
+
+```txt
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
