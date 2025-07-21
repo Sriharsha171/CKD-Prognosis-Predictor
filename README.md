@@ -17,7 +17,13 @@ This project identifies intelligible predictors of poor prognosis in Chronic Kid
 - `results/`: Model evaluation plots
 - `reports/`: Final project report
 
-## Setup
+## Authors
+Harsha Mohan G R (1EW21AI012)
 
-```bash
-pip install -r requirements.txt
+Pramodh S (1EW21AI030)
+
+Samarth M Shetty (1EW21AI033)
+
+Sriharsha B K (1EW21AI038)
+
+
