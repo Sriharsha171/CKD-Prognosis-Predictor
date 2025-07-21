@@ -28,7 +28,7 @@ Sriharsha B K (1EW21AI038)
 
 ## Results
 
-# Model Performance Comparison
+### Model Performance Comparison
 
 | Model               | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
 | ------------------- | -------- | --------- | ------ | -------- | ------- |
